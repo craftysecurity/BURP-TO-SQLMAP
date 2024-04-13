@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="burpsuite_pro">
+    <CLASSES>
+      <root url="jar:///home/kali/Downloads/burpsuite_pro.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///home/kali/Downloads/burpsuite_pro.jar!/" />
+    </SOURCES>
+  </library>
+</component>
